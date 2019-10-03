@@ -4,12 +4,10 @@ Intelligent tourist guide
 
 1. Server Side: Node Js.<br/>
 2. ClientSide: React Js.<br/>
-3. DataBased Used Mongodb Atlas and below url can   be used to access it:
-mongodb+srv://aaru:Aradhna123456789@cluster0-vu6nx.mongodb.net/test?retryWrites=true&w=majority
-
+3. DataBased Used Mongodb Atlas
 
 <h3>Project Overview</h3>
-Application consits of three parts.
+Application consits of three parts.<br/>
 a) admin<br/>
 b) client<br/>
 c) Apis<br/>
